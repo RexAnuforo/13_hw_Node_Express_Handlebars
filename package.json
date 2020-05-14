@@ -1,0 +1,19 @@
+{
+  "name": "13_hw_node_express_handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RexAnuforo/13_hw_Node_Express_Handlebars.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RexAnuforo/13_hw_Node_Express_Handlebars/issues"
+  },
+  "homepage": "https://github.com/RexAnuforo/13_hw_Node_Express_Handlebars#readme"
+}
